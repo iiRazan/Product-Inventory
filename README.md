@@ -14,5 +14,3 @@ My code is included some properities created with main structures, classes, and 
 - The customer can check if the product avilable to ship on any location
 - Can sign in with (Gmail, Facebook, Phone number)
 - Add A history for all purchasing
-
-I created a program which about product inventory
